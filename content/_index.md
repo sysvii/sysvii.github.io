@@ -14,7 +14,7 @@ Anyway, so here we go:
 
 ### Who am I?
 
-Great question, I would like to know as well. For what I do know 
+Great question, I would like to know as well. For what I do know
 
 I get paid to tap on the computers, it has been ride so far & I have it on good
 authority that ride never ends. Though it strangely always ends with a cabin in
@@ -51,7 +51,7 @@ did in my old-er age & am going through the pain again but that's not too bad IM
 
 ## Big Thanks You
 
-No one can get to where they are today with help. For me, I would never 
+No one can get to where they are today with help. For me, I would never
 be able to make this site without these cool people, so big thanks to:
  * [zola](https://www.getzola.org) for the static site generator this here site
      is made with.
@@ -60,7 +60,7 @@ be able to make this site without these cool people, so big thanks to:
  * And [You](https://love-live.fandom.com/wiki/You_Watanabe) <!-- best girl --> too,
      for spending your time & data to see, read, wish you didn't then laugh at this meta text.
 
-Also shout outs to some cool people
+Also shout outs to some cool people:
 
  * Might be wondering _"damn that's a cool pfp"_ that was by the great
      [@bugpip_](https://twitter.com/bugpup_)
@@ -71,4 +71,4 @@ Also shout outs to some cool people
 
 I'm a human, at least that is what the capatcha leads me to believe, therefore
 I err. If there is anything you feel like that should be corrected @ me on the
-socials at the top of this page and I'll do my best to correct it. 
+socials at the top of this page and I'll do my best to correct it.
