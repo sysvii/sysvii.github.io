@@ -1,0 +1,62 @@
+# The URL the site will be built for
+base_url = "https://sysvii.github.io"
+
+compile_sass = true
+
+build_search_index = true
+
+title = "Title can be filled in later"
+default_language = "en"
+
+theme = "DeepThought"
+highlight_code = true
+highlight_theme = "demain"
+
+generate_feed = true
+feed_filename = "rss.xml"
+taxonomies = [
+	{ name = "categories", feed = true, paginate_by = 10 },
+	{ name = "tags", feed = true, paginate_by = 10 },
+]
+languages = []
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[translations]
+
+[extra]
+navbar_items = [
+	{ url = "$BASE_URL/", name = "Home" },
+	{ url = "$BASE_URL/posts", name = "Posts" },
+	{ url = "$BASE_URL/tags", name = "Tags" },
+	{ url = "$BASE_URL/categories", name = "Categories" },
+]
+# Put all your custom variables here
+
+[extra.favicon]
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+safari_pinned_tab = "/icons/safari-pinned-tab.svg"
+webmanifest = "/icons/site.webmanifest"
+
+# Author details
+[extra.author]
+name = "sysvii"
+avatar = "/images/avatar.png"
+
+# Social link setup
+[extra.social]
+github = "sysvii"
+twitter = "sysvii"
+
+# To add google analytics
+# [extra.analytics]
+# google = "<your_gtag>"
+
+# To add hyvor comments
+# [extra.commenting]
+# hyvor = "<your_website_id>"
