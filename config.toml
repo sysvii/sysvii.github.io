@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://sysvii.github.io"
+base_url = "https://drbarnz.github.io"
 
 compile_sass = true
 
@@ -9,8 +9,6 @@ title = "Title can be filled in later"
 default_language = "en"
 
 theme = "DeepThought"
-highlight_code = true
-highlight_theme = "demain"
 
 generate_feed = true
 feed_filename = "rss.xml"
@@ -20,10 +18,43 @@ taxonomies = [
 ]
 languages = []
 
+[markdown]
+highlight_code = true
+highlight_theme = "demain"
+
+external_links_target_blank = true
+external_links_no_follow = true
+external_links_no_referrer = true
+
+[link_checker]
+# Skip link checking for external URLs that start with these prefixes
+skip_prefixes = [
+    "http://twitter.com/",
+    "https://twitter.com/",
+]
+
+# Skip anchor checking for external URLs that start with these prefixes
+skip_anchor_prefixes = [
+]
+
+# Various slugification strategies, see below for details
+# Defaults to everything being a slug
 [slugify]
 paths = "on"
 taxonomies = "on"
 anchors = "on"
+
+# When set to "true", a search index is built from the pages and section
+# content for `default_language`.
+build_search_index = true
+
+[search]
+# Whether to include the title of the page/section in the index
+include_title = true
+# Whether to include the description of the page/section in the index
+include_description = false
+# Whether to include the rendered content of the page/section in the index
+include_content = true
 
 [translations]
 
@@ -45,13 +76,13 @@ webmanifest = "/icons/site.webmanifest"
 
 # Author details
 [extra.author]
-name = "sysvii"
+name = "drbarnz"
 avatar = "/images/avatar.png"
 
 # Social link setup
 [extra.social]
-github = "sysvii"
-twitter = "sysvii"
+github = "drbarnz"
+twitter = "drbarnz"
 
 # To add google analytics
 # [extra.analytics]

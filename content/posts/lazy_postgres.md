@@ -67,4 +67,4 @@ WantedBy=sockets.target
  * This has only been tested on Arch Linux
 
 
-> This post is largely based on an old [gist](https://gist.github.com/sysvii/eb7b941740af6e993f1cb1ddeb95beca) I did a few years back, so take this as a [dramatic reenactment](https://www.youtube.com/watch?v=szUJSXBjpJM).
+> This post is largely based on an old [gist](https://gist.github.com/drbarnz/eb7b941740af6e993f1cb1ddeb95beca) I did a few years back, so take this as a [dramatic reenactment](https://www.youtube.com/watch?v=szUJSXBjpJM).
