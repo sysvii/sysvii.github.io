@@ -1,4 +1,4 @@
-# sysvii.github.io
+# blog.drbar.nz
 
 This site is built using [zola](https://www.getzola.org/)
 

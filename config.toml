@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://drbarnz.github.io"
+base_url = "https://blog.drbar.nz"
 
 compile_sass = true
 
@@ -76,7 +76,7 @@ webmanifest = "/icons/site.webmanifest"
 
 # Author details
 [extra.author]
-name = "drbarnz"
+name = "David"
 avatar = "/images/avatar.png"
 
 # Social link setup
